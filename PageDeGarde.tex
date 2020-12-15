@@ -1,0 +1,148 @@
+
+\makeatletter
+\def\@ecole{école}
+\newcommand{\ecole}[1]{
+  \def\@ecole{#1}
+}
+
+\def\@specialite{Spécialité}
+\newcommand{\specialite}[1]{
+  \def\@specialite{#1}
+}
+
+\def\@ED{\'{E}cole Doctorale}
+\newcommand{\ED}[1]{
+  \def\@ED{#1}
+}
+
+\def\@doctorat{Doctorat}
+\newcommand{\doctorat}[1]{
+  \def\@doctorat{#1}
+}
+
+\def\@adresse{Adresse}
+\newcommand{\adresse}[1]{
+  \def\@adresse{#1}
+}
+
+\def\@directriceb{codirectrice}
+\newcommand{\directriceb}[1]{
+  \def\@directriceb{#1}
+}
+
+\def\@directricea{directrice}
+\newcommand{\directricea}[1]{
+  \def\@directricea{#1}
+}
+
+
+\def\@encadranta{encadrant}
+\newcommand{\encadranta}[1]{
+  \def\@encadranta{#1}
+}
+\def\@encadrantb{coencadrant}
+\newcommand{\encadrantb}[1]{
+  \def\@encadrantb{#1}
+}
+
+\def\@jurya{}{}{}
+\newcommand{\jurya}[3]{
+  \def\@jurya{#1,	& #2	& #3\\}
+}
+\def\@juryb{}{}{}
+\newcommand{\juryb}[3]{
+  \def\@juryb{#1,	& #2	& #3\\}
+}
+\def\@juryc{}{}{}
+\newcommand{\juryc}[3]{
+  \def\@juryc{#1,	& #2	& #3\\}
+}
+\def\@juryd{}{}{}
+\newcommand{\juryd}[3]{
+  \def\@juryd{#1,	& #2	& #3\\}
+}
+\def\@jurye{}{}{}
+\newcommand{\jurye}[3]{
+  \def\@jurye{#1,	& #2	& #3\\}
+}
+\def\@juryf{}{}{}
+\newcommand{\juryf}[3]{
+  \def\@juryf{#1,	& #2	& #3\\}
+}
+\def\@juryg{}{}{}
+\newcommand{\juryg}[3]{
+  \def\@juryg{#1,	& #2	& #3\\}
+}
+\def\@juryh{}{}{}
+\newcommand{\juryh}[3]{
+  \def\@juryh{#1,	& #2	& #3\\}
+}
+\def\@juryi{}{}{}
+\newcommand{\juryi}[3]{
+  \def\@juryi{#1,	& #2	& #3\\}
+}
+\makeatother
+
+
+
+
+
+% definition of the itemize templates
+%\setbeamertemplate{itemize item}[circle]
+%\setbeamercolor{itemize item}{fg=cor3,bg=white,label=\ding{220}, }
+\setbeamercolor{itemize subitem}{fg=myvert,bg=white}
+%\setbeamercolor{itemize subsubitem}{fg=cor2,bg=white}
+%
+
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+
+\makeatletter
+\newcommand\titlegraphicii[1]{\def\inserttitlegraphicii{#1}}
+\titlegraphicii{}
+\setbeamertemplate{title page}
+{  \small 
+  \vbox{}
+   {\usebeamercolor[fg]{titlegraphic}\inserttitlegraphic\hfill\inserttitlegraphicii\par}
+  \begin{centering}
+    \begin{beamercolorbox}[sep=5pt,center]{}
+      \footnotesize\@ED
+    \end{beamercolorbox}
+%       \begin{beamercolorbox}[sep=5pt,center]{}
+%     Automatique, Traitement du Signal et des Images
+%  \end{beamercolorbox}
+  
+    \begin{beamercolorbox}[sep=5pt,center]{}
+        \emph{      \textsc{Thèse de doctorat}} 
+    \end{beamercolorbox}
+    
+      \begin{beamercolorbox}[sep=5pt,center]{}
+          \textbf \insertauthor\\
+    \end{beamercolorbox}
+    
+        \insertdate
+             
+    \begin{beamercolorbox}[sep=5pt,center]{title}
+  {   \HRule \\[0.01cm]
+  \normalsize   \inserttitle
+    \\[-0.1cm] \HRule }
+    \end{beamercolorbox}
+             \vskip1em\par
+    dirigée par S. Touzeau, C. Djian Caporalino, V. Calcagno, L. Mailleret
+
+             \vskip1em\par
+    	\begin{tabular}{>{\bfseries}lll}
+		 Jury : \\
+		\@jurya
+		\@juryb
+		\@juryc
+		\@juryd
+		\@jurye
+		\@juryf
+		\@juryg
+		\@juryh
+		\@juryi
+	\end{tabular}
+  \end{centering}
+
+}
+\makeatother

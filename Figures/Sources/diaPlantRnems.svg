@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="144.2645mm"
+   height="98.493362mm"
+   viewBox="0 0 144.26449 98.493362"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="diaPlantRnems.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2766"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2764"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2337"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2335"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2149"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2147"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2073"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2071"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2003"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2001"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1431"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1434"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2003-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2001-7" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2231-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2229-1" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="205.50844"
+     inkscape:cy="259.50025"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="2560"
+     inkscape:window-y="360"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-245.17642,-119.54385)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0.64856232;stroke:#ffffff;stroke-width:4.46500015;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect898"
+       width="2.6726952"
+       height="2.1381562"
+       x="-20.218311"
+       y="-127.61395"
+       transform="rotate(118.43034)" />
+    <rect
+       style="opacity:1;fill:#bed2be;fill-opacity:1;stroke:#ffffff;stroke-width:4.46500015;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect898-3"
+       width="2.6726952"
+       height="2.1381562"
+       x="-16.494852"
+       y="-130.72256"
+       transform="rotate(118.43034)"
+       inkscape:transform-center-x="-4.6772167"
+       inkscape:transform-center-y="7.7508163" />
+    <g
+       transform="matrix(0.93978376,0,0,0.86228043,245.17642,119.54483)"
+       inkscape:label="mod_planteS"
+       id="g980">
+      <g
+         id="g982">
+        <g
+           id="g984"
+           transform="matrix(0.98169778,0,0,1,2.4724582,0)">
+          <path
+             inkscape:connector-curvature="0"
+             id="path986"
+             style="fill:none;stroke:#000000;stroke-width:0.29885301;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.39082212, 2.39082212;stroke-dashoffset:2.68481898;stroke-opacity:1"
+             d="M 78.70039,80.484 V 30.531 h 56.39024 V 80.484 L 4.5896052,79.52531 4.6750529,59.152155"
+             sodipodi:nodetypes="cccccc" />
+        </g>
+        <g
+           transform="matrix(-0.00597455,-1,0.98169778,-0.00608594,-2.7590896,1.4903725)"
+           id="g988">
+          <path
+             inkscape:connector-curvature="0"
+             id="path990"
+             style="fill:none;stroke:#000000;stroke-width:0.321006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -59.019435,10.933265 0.001,-2.7229996" />
+        </g>
+        <text
+           id="text1000"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.96709728px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math Italic';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;"
+           transform="matrix(0.95312731,0,0,1,65.788904,47.15325)">
+          <tspan
+             id="tspan998"
+             y="0"
+             x="0"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math Italic';">ϵ</tspan>
+        </text>
+        <text
+           id="text1004"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.8286128px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O Italic';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;"
+           transform="matrix(0.95312727,0,0,1,69.160878,48.946669)">
+          <tspan
+             id="tspan1002"
+             y="0"
+             x="0"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O Italic';">v</tspan>
+        </text>
+        <text
+           id="text1010"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.96709728px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math Italic';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;"
+           transform="matrix(0.95312731,0,0,1,71.623921,47.15325)">
+          <tspan
+             id="tspan1006"
+             y="0"
+             x="0"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math Italic';">β</tspan>
+          <tspan
+             id="tspan1008"
+             y="25.323261"
+             x="-14.459964"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math Italic';" />
+        </text>
+        <g
+           transform="scale(0.929164,1)"
+           id="g1020">
+          <path
+             inkscape:connector-curvature="0"
+             id="path1022"
+             style="fill:none;stroke:#0099cc;stroke-width:1.24883902;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 24.182,46.691 h 19.982 v 19.98 H 24.182 Z" />
+        </g>
+        <text
+           id="text1026"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3209486px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O Italic';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;"
+           transform="matrix(0.92916391,0,0,1,24.993852,61.570964)">
+          <tspan
+             id="tspan1024"
+             y="0"
+             x="0"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O Italic';">H</tspan>
+        </text>
+        <text
+           id="text1030"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.65861702px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O Italic';writing-mode:lr-tb;fill:#0099cc;fill-opacity:1;fill-rule:nonzero;stroke:none;"
+           transform="matrix(0.92916386,0,0,1,33.938417,56.242584)">
+          <tspan
+             id="tspan1028"
+             y="0"
+             x="0"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O Italic';fill:#0099cc;fill-opacity:1;">R</tspan>
+        </text>
+        <g
+           transform="scale(0.929164,1)"
+           id="g1056">
+          <path
+             inkscape:connector-curvature="0"
+             id="path1058"
+             style="fill:none;stroke:#000000;stroke-width:0.41628;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 55.456,94.035 h 19.982 v 19.98 H 55.456 Z" />
+        </g>
+        <text
+           id="text1062"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3209486px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O Italic';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;"
+           transform="matrix(0.92916391,0,0,1,54.391433,108.91499)">
+          <tspan
+             id="tspan1060"
+             y="0"
+             x="0"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O Italic';">P</tspan>
+        </text>
+        <text
+           id="text1066"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.65861702px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O Italic';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;"
+           transform="matrix(0.92916386,0,0,1,62.659113,111.57918)">
+          <tspan
+             id="tspan1064"
+             y="0"
+             x="0"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O Italic';">a</tspan>
+        </text>
+        <g
+           transform="scale(0.929164,1)"
+           id="g1084">
+          <path
+             inkscape:connector-curvature="0"
+             id="path1086"
+             style="fill:none;stroke:#000000;stroke-width:0.41628;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 0,56.91 H 22.761" />
+        </g>
+        <g
+           transform="scale(-0.929164,-1)"
+           id="g1088">
+          <path
+             inkscape:connector-curvature="0"
+             id="path1090"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.286192;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -18.313,-55.062 -5.003,-1.84 5.003,-1.84 c -0.799,1.086 -0.794,2.574 0,3.68 z" />
+        </g>
+        <g
+           transform="scale(0.929164,1)"
+           id="g1100">
+          <path
+             inkscape:connector-curvature="0"
+             id="path1102"
+             style="fill:none;stroke:#000000;stroke-width:0.41617599;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 55.283,103.531 H 35.301" />
+        </g>
+        <g
+           transform="scale(0.929164,1)"
+           id="g1104">
+          <path
+             inkscape:connector-curvature="0"
+             id="path1106"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.28612101;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 39.749,105.379 -5.003,-1.84 5.003,-1.84 c -0.798,1.086 -0.794,2.574 0,3.68 z" />
+        </g>
+        <text
+           id="text1110"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.63036156px;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';writing-mode:lr-tb;fill:#d45500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.96393156"
+           transform="scale(0.96393152,1.0374181)"
+           x="45.829929"
+           y="45.376526">
+          <tspan
+             id="tspan1108"
+             sodipodi:role="line"
+             y="45.376526"
+             x="45.829929 49.036839 53.852016 57.058929"
+             style="stroke-width:0.96393156">(<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';stroke-width:0.96393156"
+   id="tspan1001">1</tspan>
+-<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';stroke-width:0.96393156"
+   id="tspan1003">w</tspan>
+</tspan>
+        </text>
+        <text
+           id="text1114"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.61771059px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math Italic';writing-mode:lr-tb;fill:#d45500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.96393144"
+           transform="scale(0.96393143,1.0374182)"
+           x="62.284908"
+           y="46.55962">
+          <tspan
+             id="tspan1112"
+             y="46.55962"
+             x="62.284908"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math Italic';stroke-width:0.96393144">β</tspan>
+        </text>
+        <text
+           id="text1118"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.63036156px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O';writing-mode:lr-tb;fill:#d45500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.96393156"
+           transform="scale(0.96393152,1.0374181)"
+           x="65.720909"
+           y="45.525913">
+          <tspan
+             id="tspan1116"
+             y="45.525913"
+             x="65.720909"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O';stroke-width:0.96393156">)</tspan>
+        </text>
+        <g
+           transform="scale(0.929164,-1)"
+           id="g1132">
+          <path
+             inkscape:connector-curvature="0"
+             id="path1134"
+             style="fill:#e9c6af;fill-opacity:1;fill-rule:nonzero;stroke:#0099cc;stroke-width:1.24883902;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 85.796,-33.566 h 19.982 v -19.98 H 85.796 Z" />
+        </g>
+        <text
+           id="text1138"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3209486px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O Italic';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;"
+           transform="matrix(0.92916391,0,0,1,83.160606,48.200841)">
+          <tspan
+             id="tspan1136"
+             y="0"
+             x="0"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O Italic';">E</tspan>
+        </text>
+        <text
+           id="text1142"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.65861702px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O Italic';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;"
+           transform="matrix(0.92916386,0,0,1,90.727225,50.865031)">
+          <tspan
+             id="tspan1140"
+             y="0"
+             x="0"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O Italic';">v</tspan>
+        </text>
+        <g
+           transform="scale(0.929164,-1)"
+           id="g1144">
+          <path
+             inkscape:connector-curvature="0"
+             id="path1146"
+             style="fill:#e9c6af;fill-opacity:1;fill-rule:nonzero;stroke:#0099cc;stroke-width:1.24883902;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 124.284,-33.773 h 19.982 v -19.984 h -19.982 z" />
+        </g>
+        <text
+           id="text1150"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3209486px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O Italic';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;"
+           transform="matrix(0.92916391,0,0,1,120.64105,48.410576)">
+          <tspan
+             id="tspan1148"
+             y="0"
+             x="0"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O Italic';">I</tspan>
+        </text>
+        <text
+           id="text1154"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.65861702px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O Italic';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;"
+           transform="matrix(0.92916386,0,0,1,124.77488,51.074766)">
+          <tspan
+             id="tspan1152"
+             y="0"
+             x="0"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O Italic';">v</tspan>
+        </text>
+        <g
+           transform="scale(0.929164,-1)"
+           id="g1156">
+          <path
+             inkscape:connector-curvature="0"
+             id="path1158"
+             style="fill:#e9c6af;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.41628;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 55.456,-0.207 H 75.438 V -20.191 H 55.456 Z" />
+        </g>
+        <text
+           id="text1162"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3209486px;font-family:arial;-inkscape-font-specification:'arial Italic';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(0.92916391,0,0,1,55.308251,14.843815)">
+          <tspan
+             id="tspan1160"
+             y="0"
+             x="0"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O Italic'">P</tspan>
+        </text>
+        <text
+           id="text1166"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.65861702px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O Italic';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;"
+           transform="matrix(0.92916386,0,0,1,62.197984,17.508005)">
+          <tspan
+             id="tspan1164"
+             y="0"
+             x="0"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O Italic';">v</tspan>
+        </text>
+        <g
+           transform="matrix(0.929164,0,0,0.97176652,0,1.4130012)"
+           id="g1168">
+          <path
+             inkscape:connector-curvature="0"
+             id="path1170"
+             style="fill:none;stroke:#000000;stroke-width:0.43461001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 62.325,19.133 c 0,0 -25.544,30.926 -15.105,30.914 6.949,-0.008 37.857,-0.426 37.857,-0.426" />
+        </g>
+        <g
+           transform="matrix(-0.929164,0.0135433,-0.0125839,-1,0,0)"
+           id="g1172">
+          <path
+             inkscape:connector-curvature="0"
+             id="path1174"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.298767;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -79.745,-48.834 -5.225,-1.922 5.226,-1.918 c -0.835,1.133 -0.831,2.684 -0.001,3.84 z" />
+        </g>
+        <g
+           transform="scale(0.929164,1)"
+           id="g1176">
+          <path
+             inkscape:connector-curvature="0"
+             id="path1178"
+             style="fill:none;stroke:#000000;stroke-width:0.41628;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 105.778,43.992 h 18.107" />
+        </g>
+        <g
+           transform="scale(-0.929164,-1)"
+           id="g1180">
+          <path
+             inkscape:connector-curvature="0"
+             id="path1182"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.286192;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -119.433,-42.148 -5.003,-1.84 5.003,-1.84 c -0.803,1.09 -0.794,2.574 0,3.68 z" />
+        </g>
+        <g
+           transform="scale(0.929164,1)"
+           id="g1184">
+          <path
+             inkscape:connector-curvature="0"
+             id="path1186"
+             style="fill:none;stroke:#000000;stroke-width:0.41628;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 133.874,34.008 V 10.859 H 75.917" />
+        </g>
+        <g
+           transform="scale(0.929164,1)"
+           id="g1188">
+          <path
+             inkscape:connector-curvature="0"
+             id="path1190"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.286192;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 80.365,12.707 -5.003,-1.84 5.003,-1.84 c -0.799,1.086 -0.795,2.575 0,3.68 z" />
+        </g>
+        <g
+           transform="scale(0.929164,1)"
+           id="g1192">
+          <path
+             inkscape:connector-curvature="0"
+             id="path1194"
+             style="fill:none;stroke:#000000;stroke-width:0.41628;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 144.531,43.992 h 19.982" />
+        </g>
+        <g
+           transform="scale(-0.929164,-1)"
+           id="g1196">
+          <path
+             inkscape:connector-curvature="0"
+             id="path1198"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.286192;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -160.065,-42.148 -5.003,-1.84 5.003,-1.84 c -0.799,1.09 -0.795,2.574 0,3.68 z" />
+        </g>
+        <g
+           transform="scale(0.929164,1)"
+           id="g1200">
+          <path
+             inkscape:connector-curvature="0"
+             id="path1202"
+             style="fill:none;stroke:#000000;stroke-width:0.41617599;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 55.283,10.691 H 35.301" />
+        </g>
+        <g
+           transform="scale(0.929164,1)"
+           id="g1204">
+          <path
+             inkscape:connector-curvature="0"
+             id="path1206"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.28612101;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 39.749,12.539 -5.003,-1.84 5.003,-1.84 c -0.798,1.086 -0.794,2.571 0,3.68 z" />
+        </g>
+        <text
+           id="text1210"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.99071121px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O';writing-mode:lr-tb;fill:#d45500;fill-opacity:1;fill-rule:nonzero;stroke:none;"
+           transform="matrix(0.929164,0,0,1,87.697225,19.853834)">
+          <tspan
+             id="tspan1208"
+             sodipodi:role="line"
+             y="0"
+             x="0 3.3269067 8.3222618 11.649169">(1-<tspan
+   style="-inkscape-font-specification:'Linux Biolinum O Italic';font-family:'Linux Biolinum O';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="tspan1005">w</tspan>
+</tspan>
+        </text>
+        <text
+           id="text1214"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.22277069px;font-family:arial;-inkscape-font-specification:'arial Italic';writing-mode:lr-tb;fill:#d45500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.96393144"
+           transform="scale(0.96393143,1.0374182)"
+           inkscape:transform-center-x="-0.94494047"
+           inkscape:transform-center-y="-1.0394345"
+           x="108.01781"
+           y="20.320833">
+          <tspan
+             id="tspan1212"
+             y="20.320833"
+             x="108.01781"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O Italic';stroke-width:0.96393144">r</tspan>
+        </text>
+        <text
+           id="text1218"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.99071121px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O';writing-mode:lr-tb;fill:#d45500;fill-opacity:1;fill-rule:nonzero;stroke:none;"
+           transform="matrix(0.929164,0,0,1,107.5732,19.853834)">
+          <tspan
+             id="tspan1216"
+             y="0"
+             x="0"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O';">)</tspan>
+        </text>
+        <text
+           id="text1222"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.99071121px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O Italic';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;"
+           transform="matrix(0.929164,0,0,1,110.67358,19.853834)">
+          <tspan
+             id="tspan1220"
+             y="0"
+             x="0"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O Italic';">r</tspan>
+        </text>
+        <text
+           id="text1250"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.63036156px;font-family:arial;-inkscape-font-specification:'arial Italic';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.9639315"
+           transform="scale(0.96393149,1.0374181)"
+           x="2.9959135"
+           y="51.161839">
+          <tspan
+             id="tspan1248"
+             sodipodi:role="line"
+             y="51.161839"
+             x="2.9959135 7.8110948"
+             style="stroke-width:0.9639315">
+            <tspan
+               style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O Italic';stroke-width:0.9639315"
+               id="tspan1007"><tspan
+   style="-inkscape-font-specification:'Latin Modern Roman Unslanted Italic';font-family:'Latin Modern Roman Unslanted';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="tspan1038">µ</tspan>
+x</tspan>
+            <tspan
+               style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman Unslanted';-inkscape-font-specification:'Latin Modern Roman Unslanted Italic';stroke-width:0.9639315"
+               id="tspan1009" />
+          </tspan>
+        </text>
+        <g
+           aria-label="λληηα"
+           transform="matrix(0.92916391,0,0,1,105.33668,39.650712)"
+           style="font-variant:normal;font-weight:normal;font-size:9.99071217px;font-family:Tinos;-inkscape-font-specification:Tinos;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1264">
+          <text
+             xml:space="preserve"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.99071217px;line-height:0;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3049145;"
+             x="-69.596794"
+             y="60.35186"
+             id="text1144"
+             transform="scale(0.9937202,1.0063195)"><tspan
+               sodipodi:role="line"
+               id="tspan1142"
+               x="-69.596794"
+               y="60.35186"
+               style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.99071217px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math Italic';stroke-width:0.3049145;">η </tspan></text>
+        </g>
+        <g
+           aria-label="λληηα"
+           transform="matrix(0.92916392,0,0,0.99999999,104.11792,-52.902837)"
+           style="font-variant:normal;font-weight:normal;font-size:9.99071217px;font-family:Tinos;-inkscape-font-specification:Tinos;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1264-7">
+          <text
+             xml:space="preserve"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.99071217px;line-height:0;font-family:arial;-inkscape-font-specification:'arial Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3049145"
+             x="-69.596794"
+             y="60.35186"
+             id="text1144-8"
+             transform="scale(0.9937202,1.0063195)"><tspan
+               sodipodi:role="line"
+               id="tspan1142-2"
+               x="-69.596794"
+               y="60.35186"
+               style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.99071217px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math Italic';stroke-width:0.3049145">η </tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.40533447px;line-height:0;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2939167;"
+           x="108.35059"
+           y="40.887287"
+           id="text1169"
+           transform="scale(0.95787826,1.043974)"><tspan
+             sodipodi:role="line"
+             id="tspan1167"
+             x="108.35059"
+             y="40.887287"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.40533447px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math Italic';stroke-width:0.2939167;">λ</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.40533447px;line-height:0;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2939167;"
+           x="146.01392"
+           y="40.971264"
+           id="text1173"
+           transform="scale(0.95787822,1.043974)"><tspan
+             sodipodi:role="line"
+             id="tspan1171"
+             x="146.01392"
+             y="40.971264"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.40533447px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math Italic';stroke-width:0.2939167;">α </tspan></text>
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot993"
+           style="fill:black;fill-opacity:1;stroke:none;font-family:'Nimbus Roman No9 L';font-style:normal;font-weight:normal;font-size:40px;line-height:0;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Nimbus Roman No9 L';font-stretch:normal;font-variant:normal"><flowRegion
+             id="flowRegion995"><rect
+               id="rect997"
+               width="660"
+               height="487.85715"
+               x="-50.714287"
+               y="-62.741619" /></flowRegion><flowPara
+             id="flowPara999"></flowPara></flowRoot>        <text
+           y="75.116585"
+           x="56.256813"
+           id="text1250-3"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.63036156px;font-family:arial;-inkscape-font-specification:'arial Italic';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.9639315"
+           transform="scale(0.96393151,1.0374181)">
+          <tspan
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman Unslanted';-inkscape-font-specification:'Latin Modern Roman Unslanted Italic';stroke-width:0.9639315"
+             id="tspan1248-4"
+             sodipodi:role="line"
+             x="65.887177 69.094086 72.301003 74.708588">f<tspan
+   style="-inkscape-font-specification:'Latin Modern Roman Unslanted';font-family:'Latin Modern Roman Unslanted';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan1035">(.)</tspan>
+</tspan>
+        </text>
+      </g>
+    </g>
+    <g
+       transform="matrix(1.0032074,0,0,0.86341559,242.16752,6.7481661)"
+       inkscape:label="mod_planteR"
+       id="g3922">
+      <g
+         id="g3924">
+        <text
+           y="148.4341"
+           x="78.767296"
+           id="text4104-8"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.48812866px;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L Italic';writing-mode:lr-tb;fill:#0099cc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.86026525"
+           transform="scale(0.86026523,1.1624322)">
+          <tspan
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O Italic';stroke-width:0.86026525"
+             id="tspan4102-0"
+             y="148.4341"
+             x="78.767296">R</tspan>
+        </text>
+      </g>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1114"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:0;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion1116"><rect
+           id="rect1118"
+           width="725.28955"
+           height="483.86307"
+           x="494.97473"
+           y="-57.05645" /></flowRegion><flowPara
+         id="flowPara1120" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:0;font-family:'Nimbus Roman No9 L';-inkscape-font-specification:'Nimbus Roman No9 L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="193.50267"
+       y="61.417271"
+       id="text1128"><tspan
+         sodipodi:role="line"
+         id="tspan1126"
+         x="193.50267"
+         y="64.240959"
+         style="stroke-width:0.26458332" /></text>
+  </g>
+</svg>

@@ -1,0 +1,206 @@
+%% PRÉAMBULE : PACKAGES début
+
+
+\usepackage[absolute,overlay]{textpos}
+\usepackage{graphicx}
+\setbeamertemplate{section in toc shaded}[default][65]
+\setbeamertemplate{frametitle}[default][center]
+\useoutertheme[section=false,subsection=false]{miniframes}
+%			  \usepackage{lmodern}
+%\renewcommand*\familydefault{\sfdefault} 
+\usepackage{adjustbox}
+\usepackage{blindtext}
+\setbeamertemplate{section in toc}[sections numbered]
+\defbeamertemplate{subection in toc}{subsections numbered roman}{%
+\@Alph\inserttocsectionnumber.\ %
+\inserttocsection\par}
+\usepackage[french]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{hyperref}
+\languagepath{French}
+ \usepackage[cm]{sfmath}
+\usepackage{here}
+\usepackage{amsrefs} 
+\usepackage{graphicx}
+\usepackage{eurosym}
+\usepackage{wasysym}
+\usepackage{outlines}
+\RequirePackage{tikz}
+\usepackage{tikz}
+\usepackage{times,amsmath,amssymb,pifont,array}
+\usepackage{enumitem}
+\usetikzlibrary{decorations.pathreplacing} 
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{siunitx}
+
+
+%\tikzposterlatexaffectionproofonfalse%shows small comment on how the poster was made at bottom of poster
+\usepackage{ifxetex}
+\usepackage{ifthen}
+
+\ifxetex
+    \usepackage{libertine}
+  %  \usepackage[log-declarations=false]{xparse} % same as below
+%  \usepackage[quiet]{fontspec} % remove quiet option to check for error
+  \setromanfont[Ligatures={Common,TeX}]{Linux  Libertine O}
+  \setmainfont[Ligatures={Common,TeX}]{Linux  Libertine O}
+    \setmonofont[SmallCapsFont={Latin Modern Mono Caps}]{Latin Modern Mono Light}
+    \setsansfont{Linux Biolinum O}
+  
+    \usepackage{xunicode}
+    
+%    \usepackage[lf]{venturis} %% lf option gives lining figures as default; 
+%			  %% remove option to get oldstyle figures as default
+%\renewcommand*\familydefault{\sfdefault} %% Only if the base font of the document is to be sans serif
+
+\else
+    \usepackage{sansmath}
+%    \usepackage{lmodern}
+    \usepackage{libertine}
+
+ % \usepackage[utf8]{inputenc}
+ % \usepackage[T1]{fontenc}
+  \usepackage{textcomp}
+  \usepackage{epstopdf}
+     \usepackage[cm]{sfmath}
+    \usepackage[lf]{venturis} %% lf option gives lining figures as default; 
+			  %% remove option to get oldstyle figures as default
+	\renewcommand*\familydefault{\sfdefault} %% Only if the base font of the document is to be sans serif		  
+
+
+%% Only if the base font of the document is to be sans serif
+  \usepackage[final,expansion=true,protrusion=true,spacing=true,kerning=true]{microtype}
+\fi
+%Theme
+\usetheme{SN}
+
+% Tableau
+\usepackage{booktabs,makecell,multirow,tabularx}
+\renewcommand\theadfont{\normalfont\bfseries}
+\usepackage{multicol}
+
+
+% Sous sous sous section
+%\setbeamercolor{subsubsection in toc}{bg=white,fg=structure}
+%\setbeamertemplate{subsubsection in toc}{%
+ % \hspace{3em}{\rule[0.3ex]{3pt}{3pt}}~\inserttocsubsubsection\par}
+%\documentclass[xcolor={dvipsnames},handout]{beamer}
+%\usepackage{pgfpages}
+%\pgfpagesuselayout{4 on 1}[a4paper,border shrink=5mm,landscape]
+
+
+%% compatbilité beamer-enumitem
+\setitemize{label=\usebeamerfont*{itemize item}%
+  \usebeamercolor[fg]{itemize item}
+  \usebeamertemplate{itemize item}}
+\setenumerate[1]{%
+  label=\protect\usebeamerfont{enumerate item}%
+  \protect\usebeamercolor[fg]{enumerate item}%
+  \insertenumlabel.}
+\newcolumntype{C}[1]{>{\centering\arraybackslash }m{#1}}
+\renewcommand\shapedefault{\scdefault\itdefault}
+\usepackage[nomarkers,nolists,fighead,tablesfirst,notablist]{endfloat}
+
+
+%% FLOATS = FIGURES & TABLES
+\graphicspath{{./Figures/}}
+\DeclareGraphicsExtensions{.pdf,.png,.jpg}
+\AtBeginDelayedFloats{\renewcommand{\baselinestretch}{1.5}}
+\renewcommand{\efloatseparator}{\mbox{}}
+
+%Couleur
+\definecolor{myorange}{RGB}{255, 122, 34}
+\definecolor{myblue1}{RGB}{0,153,255}
+\definecolor{myblue2}{RGB}{3, 101, 192}
+\definecolor{myblue3}{RGB}{0,0,170}
+\definecolor{myblue4}{RGB}{74,198,183}
+\definecolor{mypink}{RGB}{242, 5, 159}
+\definecolor{mygreen}{RGB}{1, 113, 0}
+\definecolor{mypink2}{RGB}{255, 112, 112}
+\definecolor{mypurple2}{RGB}{200, 25, 112}
+\definecolor{mypurple}{RGB}{77, 5, 159}
+\definecolor{mypink1}{rgb}{1.0, 0.01, 0.24}
+\definecolor{myyellow}{RGB}{255, 165, 0}
+\definecolor{myvert}{RGB}{60, 138, 158}
+\definecolor{myor}{RGB}{191, 116, 65}
+\definecolor{myblue}{rgb}{0.33, 0.37, 0.51}
+\definecolor{shadecolor}{rgb}{0.01,0.199,0.1}
+\colorlet{shadecolor}{gray!40}
+\colorlet{shadecolor}{gray!90}
+\setbeamertemplate{footline}[frame number]
+\definecolor{cor3}{RGB}{30,130,186}
+\colorlet{couleurs}{cor3}
+\colorlet{couleur}{myvert}
+\definecolor{vertmoyen}{rgb}{0.20,0.43,0.09}
+\setbeamercolor{structure}{fg=couleur}
+\setbeamercolor{alerted text}{fg=couleur} 
+\setbeamercolor{darkbox}{fg=black,bg=white!75!blue}
+\setbeamercolor{lightbox}{fg=black,bg=white!90!blue}
+\setbeamertemplate{blocks}[rounded]
+\setbeamercolor{block title}{fg=couleur,bg=white!90!blue}
+\setbeamercolor{block body}{fg=black,bg=white!90!blue}
+\setbeamercolor{block title alerted}{fg=couleur,bg=white!90!blue}
+\setbeamercolor{block body alerted}{fg=black,bg=white!90!blue}
+\newcommand{\Sb}{\includegraphics[width=4mm]{S.pdf}}
+\newcommand{\Rb}{\includegraphics[width=4mm]{R.pdf}}
+\definecolor{vertclair}{RGB}{100,136,150} 
+\beamertemplateshadingbackground{blue!10!lightgray!10!white} {blue!10!white} 
+
+
+
+%% FORMAT PAGE
+%Marges
+\setbeamersize{text margin left=15pt,text margin right=15pt}
+\setlength\parindent{0pt}
+\setlength{\unitlength}{1cm} 
+
+
+
+%% PRÉAMBULE : STYLE 
+\setbeamercovered{invisible}
+
+
+
+
+%% Ombre image
+\usetikzlibrary{shadows,calc}
+ 
+\def\shadowshift{3pt,-3pt}
+\def\shadowradius{5pt}
+ 
+\colorlet{innercolor}{black!60}
+\colorlet{outercolor}{gray!05}
+ 
+\newcommand\drawshadow[1]{
+    \begin{pgfonlayer}{shadow}
+        % Effet d'ombre en forme de cercle en bas à gauche
+        \shade[outercolor, inner color=innercolor, outer color=outercolor] ($(#1.south west)+(\shadowshift)+(\shadowradius/2 , \shadowradius/2)$) circle (\shadowradius);
+        % Effet d'ombre en forme de cercle en bas à droite
+        \shade[outercolor, inner color=innercolor, outer color=outercolor] ($(#1.south east)+(\shadowshift)+(-\shadowradius/2 , \shadowradius/2)$) circle (\shadowradius);
+        % Effet d'ombre en forme de cercle en haut à droite
+        \shade[outercolor,inner color=innercolor,outer color=outercolor] ($(#1.north east)+(\shadowshift)+(-\shadowradius/2 , -\shadowradius/2)$) circle (\shadowradius);
+ 
+        % Dégradé de haut en bas sur la partie sud du rectangle
+        \shade[top color=innercolor,bottom color=outercolor] ($(#1.south west)+(\shadowshift)+(\shadowradius/2,-\shadowradius/2)$) rectangle ($(#1.south east)+(\shadowshift)+(-\shadowradius/2,\shadowradius/2)$);
+        % Dégradé de gauche à droite sur le côté droit du rectangle
+        \shade[left color=innercolor,right color=outercolor] ($(#1.south east)+(\shadowshift)+(-\shadowradius/2,\shadowradius/2)$) rectangle ($(#1.north east)+(\shadowshift)+(\shadowradius/2,-\shadowradius/2)$);
+ 
+        % On remplit le rectangle créé avec une couleur noire
+        \filldraw ($(#1.south west)+(\shadowshift)+(\shadowradius/2,\shadowradius/2)$) rectangle ($(#1.north east)+(\shadowshift)-(\shadowradius/2,\shadowradius/2)$);
+    \end{pgfonlayer}
+}
+ 
+\pgfdeclarelayer{shadow}
+\pgfsetlayers{shadow,main}
+ 
+\newcommand\shadowimage[2][]{
+    \begin{tikzpicture}
+        \node[anchor=south west,inner sep=0] (image) at (0,0) {\includegraphics[#1]{#2}};
+        \drawshadow{image}
+    \end{tikzpicture}
+}
+
+
+
